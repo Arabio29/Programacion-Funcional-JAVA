@@ -1,0 +1,7 @@
+
+7
+java:S1220""Move this file to a named package.8Ðâ°ÃÞ1
+]
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(ÄÞ›Ô8Êú°ÃÞ1
+G	java:S106"+Replace this use of System.out by a logger.(ÄÞ›Ô8Íú°ÃÞ1
+F	java:S106"+Replace this use of System.out by a logger.(À“ÖX8Ïú°ÃÞ1
