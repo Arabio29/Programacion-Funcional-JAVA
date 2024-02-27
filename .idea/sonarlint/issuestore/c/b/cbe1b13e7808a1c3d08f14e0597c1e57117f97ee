@@ -1,0 +1,19 @@
+
+0
+java:S1220""Move this file to a named package.
+\
+java:S1612"?Replace this lambda with method reference 'LocalDateTime::now'.(Ù–è»8ÌŒ®ÃŞ1
+Q
+java:S1611"/Remove the parentheses around the "x" parameter(´²Äğøÿÿÿÿ8Ä¼­ÃŞ1
+b
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(´²Äğøÿÿÿÿ8ÎŒ®ÃŞ1
+L	java:S106"+Replace this use of System.out by a logger.(´²Äğøÿÿÿÿ8Ä¼­ÃŞ1
+}
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'ToIntFunction<String>'(ŒÀŞ¹úÿÿÿÿ8ÑŒ®ÃŞ1
+Q
+java:S1611"/Remove the parentheses around the "s" parameter(ŒÀŞ¹úÿÿÿÿ8Å¼­ÃŞ1
+
+java:S4276"]Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Integer>'(ç‹Êúÿÿÿÿ8ÓŒ®ÃŞ1
+O
+java:S1611"2Remove the parentheses around the "name" parameter(¨ÏÚ¶8È¼­ÃŞ1
+G	java:S106"+Replace this use of System.out by a logger.(µ“©8É¼­ÃŞ1
